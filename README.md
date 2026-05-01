@@ -86,7 +86,4 @@ EliteKart-Retail-Sales-Dashboard/
 │
 ├── Excel_Dashboard.xlsx
 ├── README.md
-├── images/
-│   └── dashboard.png
-└── dataset/
-    └── sales_data.xlsx
+├── dashboard.png
