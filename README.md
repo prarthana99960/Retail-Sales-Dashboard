@@ -10,7 +10,7 @@ The project helps businesses make data-driven decisions by transforming raw sale
 
 ## Dashboard Preview
 
-![EliteKart Retail Sales Dashboard](elitekart sales dashboard.png)
+![EliteKart Retail Sales Dashboard](elitekartsalesdashboard.png)
 
 ---
 
